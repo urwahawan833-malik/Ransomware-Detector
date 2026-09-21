@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+test_folder/
+detection_log.json
+*.enc
+.env
